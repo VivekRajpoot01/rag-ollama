@@ -1,0 +1,8 @@
+langchain-community
+faiss-cpu
+langchain-huggingface
+pymupdf
+tiktoken
+langchain-ollama
+python-dotenv
+ipykernel
